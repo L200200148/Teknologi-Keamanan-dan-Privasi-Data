@@ -1,4 +1,5 @@
-# Tugas 1
+## Tugas 1
+Membuat Aplikasi (bebas dengan bahasa pemrograman apa saja) untuk mengimplementasikan simetrik kriptografi.
 
 ## Farhan Sriadi / L200200148
 Kode Python menggunakan modul Tkinter untuk membuat GUI dengan fitur: 
