@@ -9,4 +9,4 @@ Kode Python menggunakan modul Tkinter untuk membuat GUI dengan fitur
 
 
 ## Screenshot Aplikasi
-![img1](Aplikasi Kriptografi/screenshot/1.png)
+![img1](/screenshot/1.png)
