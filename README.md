@@ -1,6 +1,6 @@
 # Teknologi-Keamanan-dan-Privasi-Data
 
-### Farhan Sriadi / L200200148
+## Farhan Sriadi / L200200148
 
 ## Tugas 1
 Kode Python menggunakan modul Tkinter untuk membuat GUI dengan fitur 
