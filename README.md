@@ -10,7 +10,7 @@ Kode Python menggunakan modul Tkinter untuk membuat GUI dengan fitur
 - Transposition Cipher
 
 
-## Screenshot Aplikasi
+## Screenshot :
 - Shift Cipher
 ![img1](/Aplikasi%20Kriptografi/screenshot/1.png)
 - Vigenere Cipher
