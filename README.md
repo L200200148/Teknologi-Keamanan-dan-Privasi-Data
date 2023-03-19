@@ -2,10 +2,10 @@
 
 Tugas 1
 Kode Python menggunakan modul Tkinter untuk membuat GUI dengan fitur 
--Shift Cipher;
--Vigenere Cipher;
--Substitution Cipher;
--Transposition Cipher.
+- Shift Cipher
+- Vigenere Cipher
+- Substitution Cipher
+- Transposition Cipher.
 
 
 ## Screenshot Aplikasi
